@@ -16,6 +16,7 @@ This project includes:
 The model uses:
 
 Learning rate = 0.0001
+
 Epochs = 10000
 
 ## Result
