@@ -21,8 +21,6 @@ Epochs = 10000
 
 ## Training Animation
 
-## Training Animation
-
 <img src="assets/linear_regression_training.gif" alt="Linear regression training animation" width="700">
 
 ## MSE vs Epochs
