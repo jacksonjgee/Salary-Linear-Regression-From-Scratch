@@ -19,10 +19,18 @@ Learning rate = 0.0001
 
 Epochs = 10000
 
-## Result
+## Training Animation
 
 <video src="assets/linear_regression_training.mp4" controls width="700">
 </video>
+
+## MSE vs Epochs
+
+<img src="assets/mse_vs_epochs.png" alt="MSE vs Epochs" width="700">
+
+## Final Regression Line
+
+<img src="assets/final_regression_line.png" alt="Final Regression Line" width="700">
 
 ## Project Structure
 
