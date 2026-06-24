@@ -34,24 +34,35 @@ Epochs = 10000
 ## Project Structure
 
 ```text
-.
+Salary_Linear_Regression_From_Scratch/
+│
+├── .venv/
+│
+├── assets/
+│   ├── final_regression_line.png
+│   ├── linear_regression_training.gif
+│   ├── linear_regression_training.mp4
+│   └── mse_vs_epochs.png
+│
 ├── data/
 │   └── Salary_dataset.csv
-├── images/
-│   └── Figure_1.png
+│
 ├── src/
 │   └── model.py
+│
+├── .gitignore
 ├── main.py
-├── requirements.txt
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ## Running the Project
 
-Install the requirements:
+Setup instructions:
 
 ```bash
 pip install -r requirements.txt
+brew install ffmpeg
 ```
 
 Run the program:
