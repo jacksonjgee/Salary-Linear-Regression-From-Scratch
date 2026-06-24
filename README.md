@@ -17,7 +17,7 @@ The model uses:
 
 Learning rate = 0.0001
 
-Epochs = 10000
+Epochs = 100000
 
 ## Training Animation
 
