@@ -16,11 +16,13 @@ This project includes:
 The model uses:
 
 Learning rate = 0.0001
+
 Epochs = 10000
 
 ## Result
 
-![Salary vs Years of Experience](images/Figure_1.png)
+<video src="assets/linear_regression_training.mp4" controls width="700">
+</video>
 
 ## Project Structure
 
